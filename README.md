@@ -1,3 +1,7 @@
+[Image 1](https://github.com/bhaskarpal1707/Weather_Data_Analysis/blob/main/Image%201.jpg)
+[Image 2](https://github.com/bhaskarpal1707/Weather_Data_Analysis/blob/main/Image%202.jpg)
+[Image 3](https://github.com/bhaskarpal1707/Weather_Data_Analysis/blob/main/Image%203.jpg)
+[Image 4](https://github.com/bhaskarpal1707/Weather_Data_Analysis/blob/main/Image%204.jpg)
 # 🌤️ **Weather Data Analysis Using Kaggle Dataset**
 
 ## 📊 **Project Overview**
@@ -10,6 +14,7 @@ This project involves a detailed **weather data analysis** using a Kaggle datase
 - **Sunrise and Sunset Times**
 
 ---
+[Image 2](https://github.com/bhaskarpal1707/Weather_Data_Analysis/blob/main/Image%202.jpg)
 
 ## 🔎 **Key Insights**
 
@@ -37,6 +42,7 @@ This project involves a detailed **weather data analysis** using a Kaggle datase
 - Sunrise times range from **4:45 AM to 6:00 AM**, while sunset occurs between **5:30 PM and 7:00 PM**.
 
 ---
+[Image 3](https://github.com/bhaskarpal1707/Weather_Data_Analysis/blob/main/Image%203.jpg)
 
 ## 💡 **Visualizations**
 The project includes multiple visualizations:
@@ -47,6 +53,8 @@ The project includes multiple visualizations:
 - 🌅 **Sunrise vs. Sunset**: Scatter plot visualizing the relationship.
 
 ---
+
+[Image 4](https://github.com/bhaskarpal1707/Weather_Data_Analysis/blob/main/Image%204.jpg)
 
 ## 🛠️ **Tools and Techniques Used**
 - **Dataset:** Kaggle Weather Dataset  
