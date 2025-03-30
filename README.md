@@ -1,4 +1,4 @@
-![Image 1](https://github.com/bhaskarpal1707/Weather_Data_Analysis/blob/main/Image%201.jpg)
+![Image 1](https://github.com/bhaskarpal1707/Weather_Data_Analysis/blob/main/Image%202.jpg)
 
 # 🌤️ **Weather Data Analysis Using Kaggle Dataset**
 
@@ -12,7 +12,7 @@ This project involves a detailed **weather data analysis** using a Kaggle datase
 - **Sunrise and Sunset Times**
 
 ---
-![Image 2](https://github.com/bhaskarpal1707/Weather_Data_Analysis/blob/main/Image%202.jpg)
+![Image 2](https://github.com/bhaskarpal1707/Weather_Data_Analysis/blob/main/Image%201.jpg)
 
 ## 🔎 **Key Insights**
 
